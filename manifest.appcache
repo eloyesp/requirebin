@@ -1,4 +1,6 @@
 CACHE MANIFEST 
+
+CACHE:
 css/bootstrap.css
 flatui/css/flat-ui.css
 css/codemirror.css
@@ -9,3 +11,12 @@ flatui-deps.js
 uglifyjs2-browser.js
 bundle.js
 https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
+https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css
+https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
+img/logo-black.png
+img/npm.png
+flatui/images/select/toggle.png
+https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
+
+NETWORK: 
+*
