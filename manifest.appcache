@@ -1,0 +1,11 @@
+CACHE MANIFEST 
+css/bootstrap.css
+flatui/css/flat-ui.css
+css/codemirror.css
+css/theme.css
+css/style.css
+https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css
+flatui-deps.js
+uglifyjs2-browser.js
+bundle.js
+https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js
